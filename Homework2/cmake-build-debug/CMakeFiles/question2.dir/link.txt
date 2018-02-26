@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/question2.dir/2-2.cpp.o  -o question2 

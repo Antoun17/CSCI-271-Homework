@@ -1,0 +1,8 @@
+/home/antoun/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/question6.dir
+/home/antoun/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/question5.dir
+/home/antoun/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/antoun/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/question4.dir
+/home/antoun/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/antoun/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/question3.dir
+/home/antoun/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/question2.dir
+/home/antoun/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/question1.dir
